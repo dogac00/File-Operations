@@ -1,0 +1,24 @@
+{
+  "title": "Abc",
+  "release_year": 1987,
+  "is_awesome": true,
+  "won_oscar": false,
+  "actors": ["actor 1", "actor 2", "actor 3"]
+  "budget": null,
+  "credits": {
+      "director": "sdfh",
+      "writer": "sdhggf",
+      "composer": "sdkg",
+      "cinematographer": "sdkjfhure",
+  }
+}
+
+# a typical json data packet
+# with a few exceptions
+# true and false is not capitalised
+# and null instead of None
+
+# values can be strings
+# numbers
+# booleans
+# lists, null or maybe another json object
